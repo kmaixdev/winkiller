@@ -1,5 +1,5 @@
 # winkiller
-Winkiller is a program that crash your computer instantly.
+Winkiller is a program that instantly crash your Windows when you run it. 
 
 
-**PLEASE TRY THIS ON A VM! THIS CAN MAY CAUSE DAMAGE TO YOUR PC!!**
+**It is recommended to run on a VM (Virtual Machine) because it may cause damages to your computer.**
